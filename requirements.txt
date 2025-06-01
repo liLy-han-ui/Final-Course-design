@@ -4,3 +4,4 @@ pandas
 matplotlib
 pyecharts
 openpyxl
+joblib
